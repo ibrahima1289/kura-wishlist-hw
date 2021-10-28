@@ -1,5 +1,10 @@
 # Assignment - Wishlist
 
+## Goal:
+
+The goal for this assignment is to deploy a sample application im order to demonstrate how microservices run in **Kubernetes** with containers.
+
+## Precedure:
 
 1. Create a cluster using the command line.
 	
