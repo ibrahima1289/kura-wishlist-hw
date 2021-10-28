@@ -15,7 +15,7 @@ $ k3d cluster create wishlist-cluster -p “8081:8081@loadbalancer” -p “8082
 2. Run the [yaml](https://github.com/ibrahima1289/kura-wishlist-hw/blob/main/wishlist-deployment.yaml) file.
 
 ```
-$ kubectl apply -f wishlit.yml
+$ kubectl apply -f wishlist-deployment.yaml
 ```
 
 3. Check the services
