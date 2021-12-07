@@ -4,7 +4,7 @@
 
 The goal for this assignment is to deploy a sample application in order to demonstrate how microservices run in **Kubernetes** with containers.
 
-## Precedure:
+## Procedure:
 
 1. Create a cluster using the command line.
 	
